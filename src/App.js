@@ -13,7 +13,7 @@ function App() {
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="product" element={<Products />} />
+          <Route path="products" element={<Products />} />
           <Route path="about" element={<About />} />
           {/* <Route path="/about" components={About} /> */}
           {/* <Route path="/products" components={Products} /> */}
